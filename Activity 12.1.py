@@ -20,3 +20,4 @@ def cut(email):
     print(domainname)
     print(xmail)
     print(dotwha)
+    return username,domainname,xmail,dotwha
